@@ -2,7 +2,7 @@
 
 ## Components
 
-- [ ] Text
+- [ X ] Text
 - [ ] Heading
 - [ ] BOx
 - [ ] Button
