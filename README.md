@@ -3,7 +3,7 @@
 ## Components
 
 - [x] Text
-- [ ] Heading
+- [x] Heading
 - [ ] BOx
 - [ ] Button
 - [ ] TextInput
